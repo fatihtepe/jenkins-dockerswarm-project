@@ -1,5 +1,4 @@
 
-Tyler Counter  10:19 AM
 pipeline {
     agent any
     environment {
